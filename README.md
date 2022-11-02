@@ -39,7 +39,16 @@
 | [MLH](https://mlh.io/)         | Hackathons partnered with MLH                                            |
 | [Hackerearth](https://www.hackerearth.com/challenges/hackathon/) | Hackathons and hiring challenges                                         |
 | [CTFtime](https://ctftime.org/)| All Previous & Upcoming CTFs |
+| [CLIST](https://clist.by/)| All Ongoing and Upcoming Competitve Programming Contests |
+| [CodeForces](https://codeforces.com/)| The best platform to practice Competitve Programming |
 
+<br/>
+
+
+### References
+| **Name**    | **Description**                                                          |
+|-------------|--------------------------------------------------------------------------|
+| [cp-algorithms](https://cp-algorithms.com/)      | Comprehensive guide on most common data structures and algorithms. |
 
 <br/>
 
