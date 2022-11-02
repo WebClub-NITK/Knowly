@@ -51,3 +51,4 @@
 |[Kube cuddle](https://kubecuddle.transistor.fm/)| Podcast about Kubernetes and the people who build and use it|
 |[Engineering culture by InfoQ](https://open.spotify.com/show/5YAzpmLjbNhQVVg7HkfIHP?si=8e00c33f0ca6440b)| Interviewing some of the top CTOs, engineers and technology directors from companies like Uber, Netflix and more|
 |[Command Line Heroes](https://open.spotify.com/show/4Jgtgr4mHXNDyLldHkfEMz?si=f1c092577b5645da)| Stories about the people transforming technology from the command line up |
+| [The StackOverflow Podcast](https://stackoverflow.blog/podcast/) | A must listen for any programmer, as necessary as Stack Overflow itself. |
