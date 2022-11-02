@@ -20,7 +20,7 @@
 | [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/) | Highly relevant for software engineers and engineering managers, useful for those working in tech.| Monthly |
 |[Irrational exeburance](https://lethain.com/newsletter/) | Great articles about platform engineering and Engineering management | Weekly|
 | [Julia Evans](https://jvns.ca/newsletter/)| Showing how topics traditionally considered “hard” and “scary” are actually accessible and interesting and fun| Weekly|
-|[Pointer](https://www.pointer.io/)|Super high quality engineering-related content, not just trendy topics or link bait.| Tuesday & November|
+|[Pointer](https://www.pointer.io/)|Super high quality engineering-related content, not just trendy topics or link bait.| Tuesday & Friday|
 |[eCHO News](https://cilium.io/newsletter/)|  All things about eBPF and cilium to keep up on the latest in cloud native networking, observability, and security.| bi-weekly |
 | [The platformer](https://www.platformer.news)|Daily guide to understanding social networks and their relationships with the world.| Daily|
 |[ByteByByteGo](https://blog.bytebytego.com)| Weekly newsletter covering topics and trends in large-scale system design| Weekly|
