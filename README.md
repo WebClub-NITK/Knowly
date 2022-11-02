@@ -7,7 +7,8 @@
 
 1. [Newsletters](#newsletters)
 2. [Competition Websites](#competition-websites)
-3. [Podcasts](#podcasts)
+3. [References](#References)
+4. [Podcasts](#podcasts)
 
 ### Newsletters
 
