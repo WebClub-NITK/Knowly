@@ -27,6 +27,7 @@
 |[ByteByByteGo](https://blog.bytebytego.com)| Weekly newsletter covering topics and trends in large-scale system design| Weekly|
 |[SRE weekly](https://sreweekly.com/)| Devoted to everything related to keeping a site or service available as consistently as possible| Weekly|
 |[New comer](https://www.newcomer.co/)| Where technology and venture capital intersect: A deeply reported newsletter on the inner workings of the startup industry | Monthly|
+| [JAMstacked](https://jamstack.email) | An email update on the evolving JAMstack (Javscript, APIs, Markup) ecosystem. | Bimonthly       |
 
 
 <br/>
