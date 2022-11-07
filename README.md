@@ -8,6 +8,10 @@
 1. [Newsletters](#newsletters)
 2. [Competition Websites](#competition-websites)
 
+=======
+3. [References](#References)
+4. [Podcasts](#podcasts)
+
 ### Newsletters
 
 | **Name**           | **Description**                                                                                    | **Frequency** |
@@ -29,3 +33,29 @@
 | [Devfolio](http://devfolio.co/)    | All major Hackathons and Ideathons happening all over the world          |
 | [MLH](https://mlh.io/)         | Hackathons partnered with MLH                                            |
 | [Hackerearth](https://www.hackerearth.com/challenges/hackathon/) | Hackathons and hiring challenges                                         |
+
+=======
+| [CTFtime](https://ctftime.org/)| All Previous & Upcoming CTFs |
+| [CLIST](https://clist.by/)| All Ongoing and Upcoming Competitve Programming Contests |
+| [CodeForces](https://codeforces.com/)| The best platform to practice Competitve Programming |
+
+<br/>
+
+
+### References
+| **Name**    | **Description**                                                          |
+|-------------|--------------------------------------------------------------------------|
+| [cp-algorithms](https://cp-algorithms.com/)      | Comprehensive guide on most common data structures and algorithms. |
+
+<br/>
+
+### Podcasts
+| **Name** | **Description** |
+|----------|-----------------|
+|[SRE Prodcast](https://sre.google/prodcast/)|Google's podcast about Site Reliability Engineering and production software|
+|[Talks at google](https://open.spotify.com/show/2nIvarXvvZcp1cePx69x9N?si=683e58f026e2402e)| Google brings the world’s most influential thinkers, creators, makers, and doers all to one place|
+|[Kube cuddle](https://kubecuddle.transistor.fm/)| Podcast about Kubernetes and the people who build and use it|
+|[Engineering culture by InfoQ](https://open.spotify.com/show/5YAzpmLjbNhQVVg7HkfIHP?si=8e00c33f0ca6440b)| Interviewing some of the top CTOs, engineers and technology directors from companies like Uber, Netflix and more|
+|[Command Line Heroes](https://open.spotify.com/show/4Jgtgr4mHXNDyLldHkfEMz?si=f1c092577b5645da)| Stories about the people transforming technology from the command line up |
+| [The StackOverflow Podcast](https://stackoverflow.blog/podcast/) | A must listen for any programmer, as necessary as Stack Overflow itself. |
+
